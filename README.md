@@ -202,9 +202,9 @@ AI-powered logistics management system with fleet tracking, warehouse management
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=790aryan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=790aryan&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=790aryan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=790aryan&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -249,19 +249,19 @@ AI-powered logistics management system with fleet tracking, warehouse management
 <div align="center">
 
 <a href="mailto:guptaarayan929@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aryan-gupta-58543b376">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://leetcode.com/u/Aryan_790/">
-<img src="https://cdn.simpleicons.org/leetcode"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38"/>
 </a>
 
 <a href="https://codeforces.com/profile/Aryan_790">
-<img src="https://cdn.simpleicons.org/codeforces"/>
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="38"/>
 </a>
 
 </div>
@@ -292,7 +292,7 @@ AI-powered logistics management system with fleet tracking, warehouse management
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=790aryan&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=790aryan&theme=onedark&no-frame=true&row=2&column=4"/>
 
 </div>
 
