@@ -117,69 +117,54 @@ Become a Software Engineer who builds high-performance products used by millions
 
 # 🌟 Featured Projects
 
-<table>
+## 🏫 CampusOS
 
-<tr>
+> Enterprise-grade MERN platform for campus event management featuring QR attendance, AI-powered recommendations, certificate verification, analytics dashboards, automated email reminders, and real-time updates.
 
-<td width="33%">
-
-<h3 align="center">🏫 CampusOS</h3>
-
-<p align="center">
-
-Enterprise-grade MERN platform for campus event management featuring QR attendance, AI-powered recommendations, certificate verification, analytics dashboards, automated email reminders, and real-time updates.
-
-</p>
-
-<p align="center">
-
+<p>
 <a href="https://campus-os-1.onrender.com">
-
-Live Demo
-
+<img src="https://img.shields.io/badge/🚀-Live%20Demo-22c55e?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/790aryan/campus-os">
+<img src="https://img.shields.io/badge/📂-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-</td>
+---
 
-<td width="33%">
+## 🧠 CodeRevise-AI
 
-<h3 align="center">🧠 CodeRevise-AI</h3>
+> AI-powered DSA revision platform with adaptive spaced repetition, intelligent memory engine, learning analytics, and personalized practice.
 
-<p align="center">
-
-AI-powered DSA revision platform featuring adaptive spaced repetition, intelligent memory engine, learning analytics, and personalized practice.
-
-</p>
-
-<p align="center">
-
+<p>
 <a href="https://code-revise-ai.vercel.app">
-
-Live Demo
-
+<img src="https://img.shields.io/badge/🚀-Live%20Demo-22c55e?style=for-the-badge"/>
 </a>
 
+<a href="https://github.com/790aryan/code-revise-ai">
+<img src="https://img.shields.io/badge/📂-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-</td>
+---
 
-<td width="33%">
+## 🚚 Nexus-Logix
 
-<h3 align="center">🚚 Nexus-Logix</h3>
+> AI-powered logistics management system featuring fleet tracking, warehouse management, route optimization, analytics dashboards, and real-time monitoring.
 
-<p align="center">
+<p>
+<a href="YOUR_NEXUS_DEPLOYMENT_LINK">
+<img src="https://img.shields.io/badge/🚀-Live%20Demo-22c55e?style=for-the-badge"/>
+</a>
 
-AI-powered logistics management system with fleet tracking, warehouse management, route optimization, analytics dashboards, and real-time monitoring.
-
+<a href="https://github.com/790aryan/nexus-logix">
+<img src="https://img.shields.io/badge/📂-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-</td>
+---
 
-</tr>
-
-</table>
 # 💻 Coding Profiles
 
 <div align="center">
